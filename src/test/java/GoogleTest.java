@@ -35,6 +35,7 @@ public class GoogleTest {
         driver.findElement(By.cssSelector("div[jsname='WxTTNd']")).click();
         driver.findElement(By.cssSelector("div[jsname='Ax5wH']")).click();
         driver.findElement(By.cssSelector("div[jsname='Pt8tGc']")).click();
+
     }
 
     @AfterAll
